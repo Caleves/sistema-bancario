@@ -1,5 +1,5 @@
 # Otimizando o Sistema Bancário com Funções Python
-### Potência Tech powered by iFood | Ciências de Dados com Python
+### NTT DATA - Engenharia de Dados com Python
 
 Esta é uma versão atualizada do bank-system.py. Nesta versão é possível que o usuário realize as seguintes operações:
 
